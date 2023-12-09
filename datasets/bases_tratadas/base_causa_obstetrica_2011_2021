@@ -1,0 +1,298 @@
+,ANO,Estado,Morte materna obstétrica direta,Morte materna obstétrica indireta,Morte materna obstétrica não especificada
+0,2011,Rondônia,13,2,-
+1,2011,Acre,6,-,-
+2,2011,Amazonas,31,18,3
+3,2011,Roraima,4,2,-
+4,2011,Pará,74,10,1
+5,2011,Amapá,5,1,-
+6,2011,Tocantins,15,11,-
+7,2011,Maranhão,91,13,1
+8,2011,Piauí,32,12,1
+9,2011,Ceará,55,29,4
+10,2011,Rio Grande do Norte,26,6,1
+11,2011,Paraíba,25,6,-
+12,2011,Pernambuco,49,28,2
+13,2011,Alagoas,19,9,-
+14,2011,Sergipe,22,7,-
+15,2011,Bahia,87,56,6
+16,2011,Minas Gerais,77,15,3
+17,2011,Espírito Santo,14,17,1
+18,2011,Rio de Janeiro,94,53,17
+19,2011,São Paulo,152,90,7
+20,2011,Paraná,48,28,3
+21,2011,Santa Catarina,14,7,1
+22,2011,Rio Grande do Sul,30,32,5
+23,2011,Mato Grosso do Sul,22,6,1
+24,2011,Mato Grosso,27,6,1
+25,2011,Goiás,26,10,1
+26,2011,Distrito Federal,12,7,-
+27,2012,Rondônia,13,4,-
+28,2012,Acre,4,5,-
+29,2012,Amazonas,29,17,4
+30,2012,Roraima,2,1,1
+31,2012,Pará,77,17,-
+32,2012,Amapá,6,-,-
+33,2012,Tocantins,7,4,2
+34,2012,Maranhão,67,15,2
+35,2012,Piauí,25,22,1
+36,2012,Ceará,62,25,1
+37,2012,Rio Grande do Norte,23,8,-
+38,2012,Paraíba,24,3,-
+39,2012,Pernambuco,47,25,1
+40,2012,Alagoas,20,4,-
+41,2012,Sergipe,16,7,1
+42,2012,Bahia,93,48,6
+43,2012,Minas Gerais,71,15,2
+44,2012,Espírito Santo,18,16,-
+45,2012,Rio de Janeiro,105,65,10
+46,2012,São Paulo,125,97,5
+47,2012,Paraná,40,15,4
+48,2012,Santa Catarina,23,8,1
+49,2012,Rio Grande do Sul,51,33,8
+50,2012,Mato Grosso do Sul,21,7,1
+51,2012,Mato Grosso,19,11,-
+52,2012,Goiás,37,17,-
+53,2012,Distrito Federal,13,6,-
+54,2013,Rondônia,12,6,-
+55,2013,Acre,7,3,-
+56,2013,Amazonas,36,8,6
+57,2013,Roraima,5,1,-
+58,2013,Pará,87,32,1
+59,2013,Amapá,14,-,-
+60,2013,Tocantins,10,4,-
+61,2013,Maranhão,90,17,4
+62,2013,Piauí,26,16,2
+63,2013,Ceará,74,16,3
+64,2013,Rio Grande do Norte,20,2,-
+65,2013,Paraíba,31,7,2
+66,2013,Pernambuco,50,38,3
+67,2013,Alagoas,28,3,-
+68,2013,Sergipe,16,6,1
+69,2013,Bahia,104,52,6
+70,2013,Minas Gerais,95,26,2
+71,2013,Espírito Santo,14,12,-
+72,2013,Rio de Janeiro,99,64,17
+73,2013,São Paulo,146,90,4
+74,2013,Paraná,46,15,4
+75,2013,Santa Catarina,17,9,-
+76,2013,Rio Grande do Sul,20,22,2
+77,2013,Mato Grosso do Sul,13,9,-
+78,2013,Mato Grosso,28,9,1
+79,2013,Goiás,39,10,-
+80,2013,Distrito Federal,21,3,-
+81,2014,Rondônia,17,5,-
+82,2014,Acre,5,3,-
+83,2014,Amazonas,48,23,7
+84,2014,Roraima,4,1,-
+85,2014,Pará,91,26,-
+86,2014,Amapá,7,1,-
+87,2014,Tocantins,9,6,-
+88,2014,Maranhão,76,16,1
+89,2014,Piauí,25,8,-
+90,2014,Ceará,57,26,1
+91,2014,Rio Grande do Norte,25,11,-
+92,2014,Paraíba,27,4,-
+93,2014,Pernambuco,52,35,4
+94,2014,Alagoas,33,21,-
+95,2014,Sergipe,14,8,1
+96,2014,Bahia,106,36,7
+97,2014,Minas Gerais,98,31,2
+98,2014,Espírito Santo,31,19,-
+99,2014,Rio de Janeiro,89,69,8
+100,2014,São Paulo,150,105,8
+101,2014,Paraná,36,27,3
+102,2014,Santa Catarina,19,4,1
+103,2014,Rio Grande do Sul,34,23,2
+104,2014,Mato Grosso do Sul,16,10,-
+105,2014,Mato Grosso,24,12,-
+106,2014,Goiás,36,15,-
+107,2014,Distrito Federal,14,6,-
+108,2015,Rondônia,9,5,-
+109,2015,Acre,10,-,-
+110,2015,Amazonas,32,17,3
+111,2015,Roraima,8,3,-
+112,2015,Pará,68,26,1
+113,2015,Amapá,12,1,-
+114,2015,Tocantins,14,5,-
+115,2015,Maranhão,88,27,2
+116,2015,Piauí,30,10,1
+117,2015,Ceará,46,18,1
+118,2015,Rio Grande do Norte,16,12,2
+119,2015,Paraíba,28,7,3
+120,2015,Pernambuco,53,44,1
+121,2015,Alagoas,26,3,1
+122,2015,Sergipe,14,4,-
+123,2015,Bahia,97,42,4
+124,2015,Minas Gerais,96,25,4
+125,2015,Espírito Santo,19,17,-
+126,2015,Rio de Janeiro,94,60,5
+127,2015,São Paulo,191,113,6
+128,2015,Paraná,52,26,5
+129,2015,Santa Catarina,23,6,1
+130,2015,Rio Grande do Sul,32,21,-
+131,2015,Mato Grosso do Sul,19,11,1
+132,2015,Mato Grosso,28,15,-
+133,2015,Goiás,40,14,3
+134,2015,Distrito Federal,10,6,-
+135,2016,Rondônia,12,3,-
+136,2016,Acre,8,1,-
+137,2016,Amazonas,37,13,5
+138,2016,Roraima,5,1,-
+139,2016,Pará,73,30,-
+140,2016,Amapá,15,2,-
+141,2016,Tocantins,16,2,-
+142,2016,Maranhão,85,24,1
+143,2016,Piauí,33,4,1
+144,2016,Ceará,53,21,-
+145,2016,Rio Grande do Norte,16,12,3
+146,2016,Paraíba,27,13,9
+147,2016,Pernambuco,43,28,-
+148,2016,Alagoas,20,5,-
+149,2016,Sergipe,12,5,1
+150,2016,Bahia,77,39,6
+151,2016,Minas Gerais,96,21,2
+152,2016,Espírito Santo,15,6,-
+153,2016,Rio de Janeiro,87,62,8
+154,2016,São Paulo,183,117,7
+155,2016,Paraná,53,19,1
+156,2016,Santa Catarina,19,9,1
+157,2016,Rio Grande do Sul,38,15,2
+158,2016,Mato Grosso do Sul,22,5,1
+159,2016,Mato Grosso,29,13,-
+160,2016,Goiás,31,20,2
+161,2016,Distrito Federal,17,6,1
+162,2017,Rondônia,15,4,-
+163,2017,Acre,7,1,-
+164,2017,Amazonas,39,6,5
+165,2017,Roraima,5,1,-
+166,2017,Pará,100,28,1
+167,2017,Amapá,6,1,-
+168,2017,Tocantins,14,7,-
+169,2017,Maranhão,73,21,3
+170,2017,Piauí,30,5,-
+171,2017,Ceará,65,17,2
+172,2017,Rio Grande do Norte,17,18,-
+173,2017,Paraíba,23,12,1
+174,2017,Pernambuco,55,27,2
+175,2017,Alagoas,12,4,-
+176,2017,Sergipe,16,1,-
+177,2017,Bahia,93,35,6
+178,2017,Minas Gerais,86,26,6
+179,2017,Espírito Santo,20,13,-
+180,2017,Rio de Janeiro,110,52,9
+181,2017,São Paulo,213,119,16
+182,2017,Paraná,27,20,3
+183,2017,Santa Catarina,22,15,1
+184,2017,Rio Grande do Sul,41,10,4
+185,2017,Mato Grosso do Sul,12,9,-
+186,2017,Mato Grosso,26,7,1
+187,2017,Goiás,28,23,-
+188,2017,Distrito Federal,14,7,-
+189,2018,Rondônia,8,2,-
+190,2018,Acre,9,-,-
+191,2018,Amazonas,47,22,2
+192,2018,Roraima,10,-,-
+193,2018,Pará,82,24,2
+194,2018,Amapá,9,5,-
+195,2018,Tocantins,6,2,-
+196,2018,Maranhão,75,17,-
+197,2018,Piauí,31,7,4
+198,2018,Ceará,48,42,-
+199,2018,Rio Grande do Norte,16,8,1
+200,2018,Paraíba,20,12,-
+201,2018,Pernambuco,49,28,3
+202,2018,Alagoas,14,12,-
+203,2018,Sergipe,17,3,-
+204,2018,Bahia,77,34,7
+205,2018,Minas Gerais,96,36,3
+206,2018,Espírito Santo,25,6,1
+207,2018,Rio de Janeiro,86,39,11
+208,2018,São Paulo,189,104,10
+209,2018,Paraná,45,14,1
+210,2018,Santa Catarina,21,11,3
+211,2018,Rio Grande do Sul,28,19,4
+212,2018,Mato Grosso do Sul,19,10,-
+213,2018,Mato Grosso,20,13,1
+214,2018,Goiás,48,14,2
+215,2018,Distrito Federal,19,5,-
+216,2019,Rondônia,8,3,2
+217,2019,Acre,7,1,-
+218,2019,Amazonas,41,16,3
+219,2019,Roraima,10,-,1
+220,2019,Pará,91,27,3
+221,2019,Amapá,5,-,-
+222,2019,Tocantins,8,4,3
+223,2019,Maranhão,70,15,-
+224,2019,Piauí,35,6,-
+225,2019,Ceará,46,29,-
+226,2019,Rio Grande do Norte,22,9,-
+227,2019,Paraíba,22,14,-
+228,2019,Pernambuco,48,14,2
+229,2019,Alagoas,21,8,-
+230,2019,Sergipe,9,3,-
+231,2019,Bahia,70,31,4
+232,2019,Minas Gerais,85,26,4
+233,2019,Espírito Santo,16,13,-
+234,2019,Rio de Janeiro,91,56,8
+235,2019,São Paulo,158,113,11
+236,2019,Paraná,37,17,14
+237,2019,Santa Catarina,18,10,2
+238,2019,Rio Grande do Sul,32,15,2
+239,2019,Mato Grosso do Sul,14,7,1
+240,2019,Mato Grosso,20,16,2
+241,2019,Goiás,47,20,-
+242,2019,Distrito Federal,3,6,-
+243,2020,Rondônia,8,7,3
+244,2020,Acre,4,1,-
+245,2020,Amazonas,40,32,5
+246,2020,Roraima,12,8,-
+247,2020,Pará,64,57,11
+248,2020,Amapá,10,5,-
+249,2020,Tocantins,8,9,1
+250,2020,Maranhão,77,23,-
+251,2020,Piauí,27,12,1
+252,2020,Ceará,59,58,2
+253,2020,Rio Grande do Norte,15,18,1
+254,2020,Paraíba,18,33,3
+255,2020,Pernambuco,61,27,3
+256,2020,Alagoas,21,19,-
+257,2020,Sergipe,18,10,3
+258,2020,Bahia,85,62,6
+259,2020,Minas Gerais,84,39,3
+260,2020,Espírito Santo,18,19,-
+261,2020,Rio de Janeiro,83,102,5
+262,2020,São Paulo,154,158,20
+263,2020,Paraná,37,34,6
+264,2020,Santa Catarina,19,10,2
+265,2020,Rio Grande do Sul,28,24,2
+266,2020,Mato Grosso do Sul,8,7,1
+267,2020,Mato Grosso,28,22,-
+268,2020,Goiás,48,33,3
+269,2020,Distrito Federal,7,14,-
+270,2021,Rondônia,4,38,-
+271,2021,Acre,6,8,-
+272,2021,Amazonas,44,77,1
+273,2021,Roraima,9,27,-
+274,2021,Pará,82,80,4
+275,2021,Amapá,6,8,-
+276,2021,Tocantins,10,33,-
+277,2021,Maranhão,72,74,-
+278,2021,Piauí,27,30,2
+279,2021,Ceará,55,74,-
+280,2021,Rio Grande do Norte,15,50,-
+281,2021,Paraíba,29,39,3
+282,2021,Pernambuco,44,48,1
+283,2021,Alagoas,26,26,2
+284,2021,Sergipe,8,17,1
+285,2021,Bahia,78,111,6
+286,2021,Minas Gerais,73,149,7
+287,2021,Espírito Santo,17,30,2
+288,2021,Rio de Janeiro,89,223,8
+289,2021,São Paulo,143,301,13
+290,2021,Paraná,41,141,5
+291,2021,Santa Catarina,28,56,1
+292,2021,Rio Grande do Sul,36,77,-
+293,2021,Mato Grosso do Sul,18,35,1
+294,2021,Mato Grosso,22,62,-
+295,2021,Goiás,39,99,2
+296,2021,Distrito Federal,8,26,2

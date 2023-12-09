@@ -6,7 +6,7 @@
 
 <h2> Contexto </h2>
 <p> 
-O projeto em questão visa a análise dos óbitos maternos no Brasil com base nos anos de 2011 á 2021. Ademais, o tema está conectado ao objetivo 3 da ONU, Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades. 
+O projeto em questão visa a análise dos óbitos maternos no Brasil com base nos anos de 2011 á 2021. Ademais, o tema está conectado ao objetivo 3 da ONU, Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
 </p>
 
 <h2> Base e Tratamento de Dados </h2>
@@ -40,7 +40,7 @@ O objetivo especifíco é a identificação do perfil da mulher que mais morre. 
 
 <h2> Modo de executar o projeto </h2>
 
-```ruby
+```
 #Clonar o repositório 
 $ git clone https://github.com/na-beatriz/projeto_final_reprograma
 #Entrar na pasta do repositório 
@@ -56,6 +56,10 @@ $ Run ou Run All
 
 <h2> Visualizações do Tableau </h2>
 <p> 
+<a href=“http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def“>- Tableau</a>
+Dashboards
+<img src="./img/capa_md.png"/>
+
 </p>
 
 <h2> Conclusão </h2>

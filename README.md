@@ -40,7 +40,7 @@ O objetivo especifíco é a identificação do perfil da mulher que mais morre. 
 
 <h2> Modo de executar o projeto </h2>
 
-```
+```ruby
 #Clonar o repositório 
 $ git clone https://github.com/na-beatriz/projeto_final_reprograma
 #Entrar na pasta do repositório 

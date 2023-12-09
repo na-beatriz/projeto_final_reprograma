@@ -75,20 +75,20 @@ O ano que houveram mais falecimentos foi em 2021 com destaque para o mês de Abr
   
 | Estado | Óbitos |
 | --- | --- |
-| `São Paulo` | 457 |
-| `Rio de Janeiro` | 320 |
-| `Minas Gerais` | 229 |
-| `Bahia` | 195 |
-| `Paraná` | 187 |
+| São Paulo | 457 |
+| Rio de Janeiro | 320 |
+| Minas Gerais | 229 |
+| Bahia | 195 |
+| Paraná | 187 |
 
 Em contrapartida, os estados com as menores ocorrências foram:
 | Estado | Óbitos |
 | --- | --- |
-| ` Amapá ` | 14 |
-| `Acre` | 15 |
-| ` Sergipe ` | 26 |
-| `Roraima ` | 36 |
-| `Distrito Federal ` | 36 |
+| Amapá | 14 |
+| Acre | 15 |
+| Sergipe | 26 |
+| Roraima | 36 |
+| Distrito Federal | 36 |
 </p>
 
 <h2> Autora </h2>

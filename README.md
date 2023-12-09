@@ -27,6 +27,7 @@ O objetivo especifíco é a identificação do perfil da mulher que mais morre. 
 </p>
 
 <h2> Ferramentas Utilizadas </h2>
+
 | Ferramenta | Descrição |
 | --- | --- |
 | `VS Code` | IDE de desenvolvimento |

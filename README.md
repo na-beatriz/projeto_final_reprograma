@@ -12,7 +12,7 @@ O projeto em questão visa a análise dos óbitos maternos no Brasil com base no
 <h2> Base e Tratamento de Dados </h2>
 <h3> Base de Dados </h3>
 <p> 
-  <a href=“http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def“>- Data SUS</a>
+  <a href=“http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def“>-Data SUS</a>
   Dados capturados considerando os 10 últimos anos das bases, 2011 á 2021.
 </p>
 
@@ -56,14 +56,22 @@ $ Run ou Run All
 
 <h2> Visualizações do Tableau </h2>
 <p> 
-<a href=“http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def“>- Tableau</a>
+<a href=“http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def“>-Tableau</a>
 Dashboards
 <img src="./img/capa_md.png"/>
 </p>
 
 <h2> Conclusão </h2>
 <p> 
+**O perfil de mortalidade materna é:**
+-Mulheres brancas;
+-Na faixa-etária dos 30 a 39 anos;
+-Solteiras;
+-O principal período de falecimento é durante o puerpério, até 42 dias;
 </p>
+<p>
+**Mortalidade materna entre 2011 e 2021**
 
+</p>
 <h2> Autora </h2>
 Ana Beatriz Almeida

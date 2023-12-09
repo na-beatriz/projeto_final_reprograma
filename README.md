@@ -36,8 +36,32 @@ O objetivo especifíco é a identificação do perfil da mulher que mais morre. 
 | `Matplotlib` | Biblioteca utilizada para a visualização de dados dentro do VS Code |
 | `Tableau` | Plataforma utilizada para a visualização de dados final |
 | `Canvas` | Plataforma utilizada para a criação da apresentação |
-| `Canvas` | Plataforma utilizada para a gravação dos códigos |
+| `Loom` | Plataforma utilizada para a gravação dos códigos |
 
+<h2> Modo de executar o projeto </h2>
+<p>
+Clonar o repositório 
+<br>
+$ git clone https://github.com/na-beatriz/projeto_final_reprograma
+</p>
+<p>
+Entrar na pasta do repositório 
+<br>
+$ cd nome da pasta
+</p>
+<p>
+Instalar as bibliotecas
+<br>
+$ import pandas as pd
+$  import os
+$ from glob import glob
+$ import matplotlib.pyplot as plt
+</p>
+<p>
+Executar o comando abaixo na parte superior da IDE no arquivo .ipynb para que seja possível executar o projeto 'analise_exploratoria.ipynb'.
+<br>
+$ Run ou Run All
+</p>
 
 <h2> Visualizações do Tableau </h2>
 <p> 

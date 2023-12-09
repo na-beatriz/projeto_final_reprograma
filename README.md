@@ -92,4 +92,4 @@ Em contrapartida, os estados com as menores ocorrências foram:
 </p>
 
 <h2> Autora </h2>
-Ana Beatriz Almeida
+Feito com ❤️ por Ana Beatriz Almeida 👋🏽 Entre em contato!

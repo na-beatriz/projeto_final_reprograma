@@ -63,7 +63,7 @@ Dashboards
 
 <h2> Conclusão </h2>
 <p> 
-***O perfil de mortalidade materna é:***
+*** O perfil de mortalidade materna é: ***
 <li>Mulheres brancas;</li>
 <li>Na faixa-etária dos 30 a 39 anos;</li>
 <li>Solteiras;</li>

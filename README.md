@@ -4,8 +4,8 @@
 <img src="./img/capa_md.png"/>
 </p>
 
-O projeto em questão visa a análise dos óbitos de mulheres em idade fértil e óbitos maternos no Brasil, no periódo de 2011 á 2021 com bases extraídas do DataSUS, no seguinte link: http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def
-Ademais, o tema está conectado ao objetivo 3 da ONU, Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+<p>O projeto em questão visa a análise dos óbitos de mulheres em idade fértil e óbitos maternos no Brasil, no periódo de 2011 á 2021 com bases extraídas do DataSUS, no seguinte link: http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def</p>
+<p>Ademais, o tema está conectado ao objetivo 3 da ONU, Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.</p>
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:

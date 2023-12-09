@@ -59,7 +59,6 @@ $ Run ou Run All
 <a href=“http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def“>- Tableau</a>
 Dashboards
 <img src="./img/capa_md.png"/>
-
 </p>
 
 <h2> Conclusão </h2>

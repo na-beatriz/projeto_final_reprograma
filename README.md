@@ -39,6 +39,7 @@ O objetivo especifíco é a identificação do perfil da mulher que mais morre. 
 | `Loom` | Plataforma utilizada para a gravação dos códigos |
 
 <h2> Modo de executar o projeto </h2>
+```
 <p>
 Clonar o repositório 
 <br>
@@ -62,6 +63,7 @@ Executar o comando abaixo na parte superior da IDE no arquivo .ipynb para que se
 <br>
 $ Run ou Run All
 </p>
+```
 
 <h2> Visualizações do Tableau </h2>
 <p> 

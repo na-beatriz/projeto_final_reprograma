@@ -27,7 +27,6 @@ O objetivo especifíco é a identificação do perfil da mulher que mais morre. 
 </p>
 
 <h2> Ferramentas Utilizadas </h2>
-<p>
 | Ferramenta | Descrição |
 | --- | --- |
 | `VS Code` | IDE de desenvolvimento |
@@ -37,7 +36,6 @@ O objetivo especifíco é a identificação do perfil da mulher que mais morre. 
 | `Tableau` | Plataforma utilizada para a visualização de dados final |
 | `Canvas` | Plataforma utilizada para a criação da apresentação |
 | `Canvas` | Plataforma utilizada para a gravação dos códigos |
-</p>
 
 
 <h2> Visualizações do Tableau </h2>

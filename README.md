@@ -63,18 +63,15 @@ Dashboards
 
 <h2> Conclusão </h2>
 <p> 
-*** O perfil de mortalidade materna é: ***
+<strong>O perfil de mortalidade materna é:</strong>
 <li>Mulheres brancas;</li>
 <li>Na faixa-etária dos 30 a 39 anos;</li>
 <li>Solteiras;</li>
 <li>O principal período de falecimento é durante o puerpério, até 42 dias;</li>
-<li></li>
 </p>
 <p>
-**Mortalidade materna entre 2011 e 2021**
-<li>
-  
-</li>
+<strong>Mortalidade materna entre 2011 e 2021</strong>
+<li></li>
 </p>
 <h2> Autora </h2>
 Ana Beatriz Almeida

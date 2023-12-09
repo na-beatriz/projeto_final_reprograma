@@ -71,7 +71,25 @@ Dashboards
 </p>
 <p>
 <strong>Mortalidade materna entre 2011 e 2021</strong>
-<li></li>
+O ano que houveram mais falecimentos foi em 2021 com destaque para o mês de Abril. De acordo com o ano de 2021 que houvem mais falecimentos, os estados com as maiores ocorrências foram:
+  
+| Estado | Óbitos |
+| --- | --- |
+| `São Paulo` | 457 |
+| `Rio de Janeiro` | 320 |
+| `Minas Gerais` | 229 |
+| `Bahia` | 195 |
+| `Paraná` | 187 |
+
+Em contrapartida, os estados com as menores ocorrências foram:
+| Estado | Óbitos |
+| --- | --- |
+| ` Amapá ` | 14 |
+| `Acre` | 15 |
+| ` Sergipe ` | 26 |
+| `Roraima ` | 36 |
+| `Distrito Federal ` | 36 |
 </p>
+
 <h2> Autora </h2>
 Ana Beatriz Almeida

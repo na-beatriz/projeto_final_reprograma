@@ -1,0 +1,6 @@
+,0
+ANO,int32
+Estado,object
+Morte materna obstétrica direta,int32
+Morte materna obstétrica indireta,int32
+Morte materna obstétrica não especificada,int32

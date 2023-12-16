@@ -92,4 +92,8 @@ Em contrapartida, os estados com as menores ocorrências foram:
 </p>
 
 <h2> Autora </h2>
+<<<<<<< HEAD
 Feito com ❤️ por Ana Beatriz Almeida 👋🏽 Entre em contato!
+=======
+Feito com ❤️ por Ana Beatriz Almeida 👋🏽 Entre em contato!
+>>>>>>> 7a55b2734d5425b090b590344cd347386bed555b

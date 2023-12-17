@@ -56,7 +56,7 @@ $ Run ou Run All
 
 <h2> Visualizações do Tableau </h2>
 <p> 
-<a href=“http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def“>-Tableau</a>
+<a href=“https://public.tableau.com/views/Maternidadeseguranaparaexistir/MMOD?:language=pt-BR&:display_count=n&:origin=viz_share_link“>-Tableau</a>
 Dashboards
 <img src="./img/capa_md.png"/>
 </p>

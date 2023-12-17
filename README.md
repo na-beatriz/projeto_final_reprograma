@@ -12,7 +12,7 @@ O projeto em questão visa a análise dos óbitos maternos no Brasil com base no
 <h2> Base e Tratamento de Dados </h2>
 <h3> Base de Dados </h3>
 <p> 
-  <a href=“http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def“><li>Data SUS</li></a>
+  <a href=http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/mat10uf.def><li>Data SUS</li></a>
   Dados capturados considerando os 10 últimos anos das bases, 2011 á 2021.
 </p>
 
@@ -57,11 +57,21 @@ $ Run ou Run All
 <h2> Visualizações do Tableau </h2>
 <p> 
 <a href=https://public.tableau.com/views/Maternidadeseguranaparaexistir/Planilha10?:language=pt-BR&:display_count=n&:origin=viz_share_link>-Tableau</a>
+</p>
 Dashboards
+<p>
 <img src="./img/PMMDI.png"/>
+</p>
+<p>
 <img src="./img/PMMNE.png"/>
+</p>
+<p>
 <img src="./img/PMMOD.png"/>
+</p>
+<p>
 <img src="./img/POMPP1121.png"/>
+</p>
+<p>
 <img src="./img/Planilha 10.png"/>
 </p>
 

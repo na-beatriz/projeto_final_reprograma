@@ -56,9 +56,13 @@ $ Run ou Run All
 
 <h2> Visualizações do Tableau </h2>
 <p> 
-<a href=“https://public.tableau.com/views/Maternidadeseguranaparaexistir/MMOD?:language=pt-BR&:display_count=n&:origin=viz_share_link“>-Tableau</a>
+<a href=https://public.tableau.com/views/Maternidadeseguranaparaexistir/Planilha10?:language=pt-BR&:display_count=n&:origin=viz_share_link>-Tableau</a>
 Dashboards
-<img src="./img/capa_md.png"/>
+<img src="./img/PMMDI.png"/>
+<img src="./img/PMMNE.png"/>
+<img src="./img/PMMOD.png"/>
+<img src="./img/POMPP1121.png"/>
+<img src="./img/Planilha 10.png"/>
 </p>
 
 <h2> Conclusão </h2>
@@ -92,8 +96,4 @@ Em contrapartida, os estados com as menores ocorrências foram:
 </p>
 
 <h2> Autora </h2>
-<<<<<<< HEAD
-Feito com ❤️ por Ana Beatriz Almeida 👋🏽 Entre em contato!
-=======
-Feito com ❤️ por Ana Beatriz Almeida 👋🏽 Entre em contato!
->>>>>>> 7a55b2734d5425b090b590344cd347386bed555b
+Feito com ❤️ por Ana Beatriz Almeida 👋🏽 Entre em contato

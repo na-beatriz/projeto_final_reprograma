@@ -60,19 +60,43 @@ $ Run ou Run All
 </p>
 Dashboards
 <p>
-<img src="./img/PMMDI.png"/>
+<img src="/img/MMDI.png">
 </p>
 <p>
-<img src="./img/PMMNE.png"/>
+<img src="/img/MMDIT.png">
 </p>
 <p>
-<img src="./img/PMMOD.png"/>
+<img src="/img/MMNE.png"/>
 </p>
 <p>
-<img src="./img/POMPP1121.png"/>
+<img src="/img/MMNET.png"/>
 </p>
 <p>
-<img src="./img/Planilha 10.png"/>
+<img src="/img/MMOD.png"/>
+</p>
+<p>
+<img src="/img/MMODT.png"/>
+</p>
+<p>
+<img src="/img/OMPP11.png"/>
+</p>
+<p>
+<img src="/img/OMPP21.png"/>
+</p>
+<p>
+<img src="/img/Planilha 10.png"/>
+</p>
+<p>
+<img src="/img/PMMDI.png"/>
+</p>
+<p>
+<img src="/img/PMMNE.png"/>
+</p>
+<p>
+<img src="/img/PMMOD.png"/>
+</p>
+<p>
+<img src="/img/POMPP1121.png"/>
 </p>
 
 <h2> Conclusão </h2>

@@ -58,31 +58,8 @@ $ Run ou Run All
 <p> 
 <a href=https://public.tableau.com/views/Maternidadeseguranaparaexistir/Planilha10?:language=pt-BR&:display_count=n&:origin=viz_share_link>Tableau</a>
 </p>
+
 Dashboards
-<p>
-<img src="/img/MMDI.png">
-</p>
-<p>
-<img src="/img/MMDIT.png">
-</p>
-<p>
-<img src="/img/MMNE.png"/>
-</p>
-<p>
-<img src="/img/MMNET.png"/>
-</p>
-<p>
-<img src="/img/MMOD.png"/>
-</p>
-<p>
-<img src="/img/MMODT.png"/>
-</p>
-<p>
-<img src="/img/OMPP11.png"/>
-</p>
-<p>
-<img src="/img/OMPP21.png"/>
-</p>
 <p>
 <img src="/img/Planilha 10.png"/>
 </p>
@@ -99,7 +76,7 @@ Dashboards
 <img src="/img/POMPP1121.png"/>
 </p>
 
-<h2> Apresentação eno Canva </h2>
+<h2> Apresentação no Canva </h2>
 <p> 
 <a href=https://www.canva.com/design/DAF2dP10o9M/rf3viloBz8S9nDHFOh-fTA/edit?utm_content=DAF2dP10o9M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 >Apresentação</a>

@@ -56,7 +56,7 @@ $ Run ou Run All
 
 <h2> Visualizações do Tableau </h2>
 <p> 
-<a href=https://public.tableau.com/views/Maternidadeseguranaparaexistir/Planilha10?:language=pt-BR&:display_count=n&:origin=viz_share_link>-Tableau</a>
+<a href=https://public.tableau.com/views/Maternidadeseguranaparaexistir/Planilha10?:language=pt-BR&:display_count=n&:origin=viz_share_link>Tableau</a>
 </p>
 Dashboards
 <p>
@@ -98,6 +98,11 @@ Dashboards
 <p>
 <img src="/img/POMPP1121.png"/>
 </p>
+
+<h2> Apresentação eno Canva </h2>
+<p> 
+<a href=https://www.canva.com/design/DAF2dP10o9M/rf3viloBz8S9nDHFOh-fTA/edit?utm_content=DAF2dP10o9M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+>Apresentação</a>
 
 <h2> Conclusão </h2>
 <p> 
